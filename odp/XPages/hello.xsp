@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xp:view xmlns:xp="http://www.ibm.com/xsp/core">
+	<xp:br></xp:br><xp:span style="font-weight:bold">Hello</xp:span><xp:span style="font-weight:bold"> from</xp:span><xp:span style="font-weight:bold"> XPages</xp:span>
+
+	<xp:text escape="true" id="computedField1" value="#{javascript:userBean.getPerson().getDisplayName()}"></xp:text></xp:view>
