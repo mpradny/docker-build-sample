@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<note default='true' class='icon' xmlns='http://www.lotus.com/dxl' version='11.0'
- maintenanceversion='1.0' replicaid='852585D0004D33F6'>
-<noteinfo noteid='11e' unid='94FC33BD93E4F642852585D0004D33FA' sequence='3'>
-<created><datetime dst='true'>20200826T100315,78-04</datetime></created>
-<modified><datetime dst='true'>20200826T100315,81-04</datetime></modified>
-<revised><datetime dst='true'>20200826T100315,80-04</datetime></revised>
-<lastaccessed><datetime dst='true'>20200826T100315,80-04</datetime></lastaccessed>
-<addedtofile><datetime dst='true'>20200826T100315,78-04</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Jesse Gallagher/O=IKSG</name></updatedby>
+<note default='true' class='icon' xmlns='http://www.lotus.com/dxl' version='9.0'
+ maintenanceversion='1.10' replicaid='C12586780054B1A3'>
+<noteinfo noteid='11e' unid='74C9AD5E5CF6A558C12586780054B1A5' sequence='3'>
+<created><datetime>20210210T162505,01+01</datetime></created>
+<modified><datetime>20210210T162505,08+01</datetime></modified>
+<revised><datetime>20210210T162505,07+01</datetime></revised>
+<lastaccessed><datetime>20210210T162505,07+01</datetime></lastaccessed>
+<addedtofile><datetime>20210210T162505,03+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Administrator/O=pradny</name></updatedby>
 <item name='IconBitmap' summary='true'>
 <rawitemdata type='6'>
 AiAgAQAA///////wD///4Af//8AD//4AAH/8AAA/+AAAH/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAA
@@ -23,8 +23,8 @@ d30fAAAAAPHXd33Xd3d913d9HwAAAADx13d913d3fdd3fR8AAAAA8R3d0dd3d30d3dEfAAAAAA8R
 EREdd3fRERER8AAAAAAA////Ed3dEf///wAAAAAAAAAAAPERER8AAAAAAAAAAAAAAAAP///wAAAA
 AAAAAAACICABAAD/////+A4DgA==
 </rawitemdata></item>
+<item name='$Flags'><text>J7</text></item>
 <item name='$Daos'><text>0</text></item>
 <item name='$LargeSummary'><text>0</text></item>
-<item name='$Flags'><text>7J</text></item>
-<item name='$TITLE'><text>Example NSF ODP Project</text></item></note>
+<item name='$TITLE'><text>BuildSample</text></item></note>
 
