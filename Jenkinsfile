@@ -14,7 +14,7 @@ pipeline {
 		
 		stage('Publish') { 
             steps {
-                archiveArtifacts artifacts: 'target/*.jar', fingerprint: true
+                archiveArtifacts artifacts: 'target/*.nsf', fingerprint: true
             }
         }
     }
