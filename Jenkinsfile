@@ -11,5 +11,11 @@ pipeline {
                 sh 'mvn -B -DskipTests clean package' 
             }
         }
+		
+		stage('Publish') { 
+            steps {
+                archiveArtifacts artifacts: 'target/*.jar', fingerprint: true
+            }
+        }
     }
 }
