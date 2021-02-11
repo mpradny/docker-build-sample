@@ -1,7 +1,7 @@
 pipeline {
     agent {
         docker {
-            image 'dockerappbuild:latest'
+            image 'registry.pris.to/docker/domino-appbuild:11.0.1FP2'
 			label 'Docker'
 			args '-v jenkins-m2-repo:/home/notes/.m2/repository'
         }
