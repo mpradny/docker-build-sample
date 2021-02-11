@@ -3,6 +3,7 @@ pipeline {
         docker {
             image 'dockerappbuild:latest'
 			label 'Docker'
+			args '-v jenkins-m2-repo:/home/notes/.m2/repository'
         }
     }
     stages {
